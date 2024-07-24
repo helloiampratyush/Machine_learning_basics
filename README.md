@@ -1,2 +1,7 @@
 # Machine_learning_basics
-Basics_from _leetcode
+
+## supervised learning vs unsupervised learning
+
+* supervised learning : In a ** supervised learning**  task, the data sample would contain a target attribute 
+𝑦
+y, also known as ground truth

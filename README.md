@@ -13,4 +13,8 @@
   
 * **Association** : given a data set, the **association task** is to uncover the hidden association patterns among the attributes of a sample.
 
-* 
+## semi supervised learning 
+
+* In a scenario where the data set is massive but the labeled sample are few, one might find the application of both **supervised** and **unsupervised** learning. We can call this task as semi-supervised learning.
+
+
